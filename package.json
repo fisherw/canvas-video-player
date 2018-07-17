@@ -1,0 +1,23 @@
+{
+  "name": "canvas-video-player",
+  "version": "1.0.0",
+  "description": "使用canvas绘制video，来达到video播放的效果。主要方便支持水印、弹幕、微信相关功能屏蔽（下载按钮、播放完成后视频推荐）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisherw/canvas-video-player.git"
+  },
+  "keywords": [
+    "canvas",
+    "video"
+  ],
+  "author": "fisher <wangjiang.fly.1989@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisherw/canvas-video-player/issues"
+  },
+  "homepage": "https://github.com/fisherw/canvas-video-player#readme"
+}
