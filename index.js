@@ -1,4 +1,4 @@
-export class AudioPlayer {
+export class CanvasVideoPlayer {
     constructor(options) {
        
     }
